@@ -13,6 +13,5 @@
 - 🤔 I’m looking for help with ETL/ELT pipeline creation.
 - 💬 Ask me about data analytics or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ![Vimukthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimukthiwi&theme=dark&show_icons=true)
