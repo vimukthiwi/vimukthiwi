@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimukthiwi&label=Views&color=blue&style=plastic&style=for-the-badge" alt="vimukthiwi" /> </p>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
 - 🔭 I’m a Senior Data Engineer specializing in data migration and integration.
 - 🌱 I’m currently expanding my knowledge in Python and advanced data engineering techniques.
 - 🤔 I’m looking for collaboration on ETL/ELT pipeline optimization and cloud data solutions.
